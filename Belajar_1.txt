@@ -1,3 +1,4 @@
 Belajar-1
 
-Ini sample file
+- Ini sample file
+- Coba tambah line baru
