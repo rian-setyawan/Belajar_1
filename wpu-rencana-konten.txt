@@ -4,6 +4,7 @@ rencana konten wpu
  * ES6
  * Framework JS
   ^ Vue
+  ^ React
 -struktur data dasar
 -php
  ^ Laravel
