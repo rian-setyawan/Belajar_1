@@ -1,6 +1,8 @@
 rencana konten wpu
 
 -js
+ * ES6
+ * Framework JS
 -php
 -interview
 -vlogs
